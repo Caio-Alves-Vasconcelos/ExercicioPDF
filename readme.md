@@ -4,3 +4,5 @@ utilizada também para aprender o primeiro commit
 Aprendendo o primeiro commit
 Unidade curricular: Desenvolvimento de Sistemas do curso Técnico de Desenvolvimento de Sistemas 
 Data de criação 01/10/2024
+
+...
