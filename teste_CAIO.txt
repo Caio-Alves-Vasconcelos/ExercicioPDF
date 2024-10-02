@@ -1,0 +1,3 @@
+Este documento de texto é para testar a clonagem de repositório no Git.
+
+Feito pelo Caio, às 22:14
